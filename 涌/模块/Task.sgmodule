@@ -1,6 +1,6 @@
 #!name=Cron Task
 #!desc=薅他！
-#!system=ios
+#!系统=mac
 
 [Script]
 # 签到
